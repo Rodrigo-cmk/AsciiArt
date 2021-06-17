@@ -1,4 +1,5 @@
 ﻿using System;
+using Humanizer;
 
 namespace AsciiArt
 {
@@ -6,8 +7,7 @@ namespace AsciiArt
     {
         static void Main(string[] args)
         {
-
-
+            
             Console.WriteLine();
             Console.WriteLine();
             Console.WriteLine();
